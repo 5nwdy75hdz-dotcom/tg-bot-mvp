@@ -1,6 +1,3 @@
-Да. Теперь есть исходник. Ниже **полный `bot.py` v0.5**, уже переделанный на его основе. Я не выкидывал существующие кнопки/режимы; основные исправления встроены прямо в код.
-
-```python
 import os
 import random
 from datetime import datetime, timedelta, timezone
@@ -2957,4 +2954,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-```
